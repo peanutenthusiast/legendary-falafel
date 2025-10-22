@@ -34,6 +34,8 @@ Higher acceptance rates among:
 
 ![Bar Coupon Acceptance By Age](./images/bar_coupon_acceptances_for_bargoers_with_adult_passengers_and_nonpastoral_occupations.png)
 
+![Bar Coupon Acceptance By License and Age](./images/bar_coupon_acceptances_by_license_and_age.png)
+
 - Higher income individuals
 - Adults accompanied by other adults
 - Adults with less parental expenditures
@@ -54,4 +56,9 @@ Key Insights
 
 1. Cross-reference with destination data to determine likelihood of coupon acceptance
 2. Cross-reference has_children and other attributes that indicate parenthood to determine which coupons are they most likely to accept.
-3. Similar to transforming age from string to num, perform similar transformations to better analyze correlations between various columns
+3. Similar to transforming age from string to num, perform similar transformations on columns `toCoupon_GEQ5min`, etc. to better analyze correlations
+
+## Extra Visualizations
+
+![Coupon Acceptance grouped by Temperature](./images/coupon_acceptance_by_temperature.png)
+![Coupon Acceptance grouped by Income levels](./images//coupon_acceptance_by_income_levels.png)
