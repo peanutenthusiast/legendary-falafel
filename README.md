@@ -54,3 +54,4 @@ Key Insights
 
 1. Cross-reference with destination data to determine likelihood of coupon acceptance
 2. Cross-reference has_children and other attributes that indicate parenthood to determine which coupons are they most likely to accept.
+3. Similar to transforming age from string to num, perform similar transformations to better analyze correlations between various columns
