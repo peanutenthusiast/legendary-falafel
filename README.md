@@ -60,5 +60,10 @@ Key Insights
 
 ## Extra Visualizations
 
+### Coupon Acceptances grouped by Temperature
+
 ![Coupon Acceptance grouped by Temperature](./images/coupon_acceptance_by_temperature.png)
+
+### Coupon Acceptances grouped by Income Levels
+
 ![Coupon Acceptance grouped by Income levels](./images//coupon_acceptance_by_income_levels.png)
